@@ -2,3 +2,5 @@ Prueba para agregar en staging area
 Prueba para primerarama
 probando
 Mensaje de prueba para realizar el merge
+
+Mensaje nuevo de prueba para MERGE
