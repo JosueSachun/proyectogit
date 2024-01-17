@@ -1,2 +1,8 @@
 Prueba para agregar en staging area
 Prueba para primerarama
+<<<<<<< HEAD
+=======
+probando
+
+PRUEBA PARA MERGE
+>>>>>>> primerarama
