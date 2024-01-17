@@ -5,4 +5,9 @@ Prueba para primerarama
 probando
 
 PRUEBA PARA MERGE
+<<<<<<< HEAD
+>>>>>>> primerarama
+=======
+
+PRUEBAS ADICIONALES PARA MERGE
 >>>>>>> primerarama
